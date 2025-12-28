@@ -3,7 +3,7 @@
 This repo is my personal space to track and share solutions to LeetCode problems.  
 I’m using it to sharpen my Data Structures & Algorithms skills and keep a record of my progress.
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/your-username/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/Kali-Prem/)
 [![GitHub stars](https://img.shields.io/github/stars/your-username/leetcode-practice?style=social)](https://github.com/your-username/leetcode-practice/stargazers)
 [![Languages](https://img.shields.io/badge/languages-Python%20%7C%20C++%20%7C%20Java-blue)](#)
 
