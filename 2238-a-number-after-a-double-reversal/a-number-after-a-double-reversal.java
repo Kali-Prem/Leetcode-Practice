@@ -1,3 +1,20 @@
+/*
+if(num == 0){
+    return true;
+}
+else if(num % 10 == 0){
+    return false;
+}
+else{
+    return n*2;
+}
+*/
+
+
+
+//Other approach solution
+/*
+
 class Solution {
     public boolean isSameAfterReversals(int num) {
         int digit = 0;
@@ -30,3 +47,4 @@ class Solution {
         
     }
 }
+*/
