@@ -11,3 +11,15 @@ class Solution {
         
     }
 }
+
+
+// Other way to solve this problem
+
+/*
+if(n % 2 == 0){
+    return n;
+}
+else{
+    return n*2;
+}
+*/
