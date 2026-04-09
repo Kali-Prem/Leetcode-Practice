@@ -10,6 +10,8 @@ class Solution {
         }
         return netPro;
 
+        // Note:- pehle ek ek ko traverse kro fir agar next element greater rha pehle se fir uska differece uska profit dega fir usko profit me add krte jao
+
 
 
 
