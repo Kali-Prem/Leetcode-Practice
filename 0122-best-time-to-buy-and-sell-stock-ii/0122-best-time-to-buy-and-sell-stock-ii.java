@@ -1,13 +1,30 @@
 class Solution {
     public int maxProfit(int[] prices) {
         int n = prices.length;
-        int Netpro = 0;
+        int netPro = 0;
         for(int i = 0; i < n-1; i++){
             if(prices[i] < prices[i+1]){
                 int diff = prices[i+1] - prices[i];
-                Netpro = Netpro + diff;
+                netPro = netPro + diff;
             }
         }
-        return Netpro;
+        return netPro;
+
+
+
+
+
+
+
+        // =============================first==========
+        // int n = prices.length;
+        // int Netpro = 0;
+        // for(int i = 0; i < n-1; i++){
+        //     if(prices[i] < prices[i+1]){
+        //         int diff = prices[i+1] - prices[i];
+        //         Netpro = Netpro + diff;
+        //     }
+        // }
+        // return Netpro;
     }
 }
