@@ -16,6 +16,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -39,4 +40,12 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
