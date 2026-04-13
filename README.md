@@ -35,6 +35,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
@@ -69,6 +70,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0164-maximum-gap) |
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
@@ -79,4 +81,12 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
