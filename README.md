@@ -22,6 +22,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0326-power-of-three](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1952-three-divisors](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2413-smallest-even-multiple) |
