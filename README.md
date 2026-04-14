@@ -24,6 +24,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0509-fibonacci-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
