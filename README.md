@@ -16,6 +16,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0231-power-of-two) |
