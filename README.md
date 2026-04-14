@@ -23,6 +23,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0342-power-of-four](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2427-number-of-common-factors) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3099-harshad-number) |
@@ -98,6 +99,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2427-number-of-common-factors) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -119,4 +121,8 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
