@@ -62,6 +62,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0704-binary-search) |
@@ -85,6 +86,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -103,6 +105,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
@@ -151,4 +154,12 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | ------- |
 | [0258-add-digits](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0258-add-digits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
