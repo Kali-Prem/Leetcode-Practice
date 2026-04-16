@@ -64,6 +64,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0162-find-peak-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0704-binary-search) |
@@ -91,6 +92,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | ------- |
 | [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
@@ -112,6 +114,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | ------- |
 | [0164-maximum-gap](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
