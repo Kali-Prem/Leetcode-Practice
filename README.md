@@ -20,6 +20,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0070-climbing-stairs](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0342-power-of-four) |
@@ -111,6 +112,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -142,4 +144,8 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | ------- |
 | [1952-three-divisors](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2427-number-of-common-factors) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
