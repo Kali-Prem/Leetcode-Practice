@@ -33,6 +33,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [2413-smallest-even-multiple](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2427-number-of-common-factors) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2544-alternating-digit-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2544-alternating-digit-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3099-harshad-number) |
