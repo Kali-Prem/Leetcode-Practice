@@ -24,6 +24,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0263-ugly-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -122,6 +123,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | ------- |
 | [0162-find-peak-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0704-binary-search) |
 ## Number Theory
