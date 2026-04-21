@@ -60,6 +60,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0162-find-peak-element) |
@@ -91,6 +92,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0217-contains-duplicate) |
