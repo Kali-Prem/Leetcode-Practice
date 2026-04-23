@@ -101,6 +101,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -116,6 +117,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
@@ -124,6 +126,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0164-maximum-gap](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
