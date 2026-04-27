@@ -14,3 +14,5 @@ class Solution {
 
 // hrr baar value add kro and max ko update kro agar greater hua tb
 // this is also a question of prefix sum
+
+// Prefix sum is the sum when we calculate at the every step and we update this;
