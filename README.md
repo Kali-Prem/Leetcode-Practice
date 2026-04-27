@@ -75,6 +75,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0283-move-zeroes](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
 | [1480-running-sum-of-1d-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -159,6 +160,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Memoization
 |  |
