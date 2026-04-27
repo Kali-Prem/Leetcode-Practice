@@ -78,6 +78,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0724-find-pivot-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
 | [1480-running-sum-of-1d-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -163,6 +164,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | ------- |
 | [0724-find-pivot-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1991-find-the-middle-index-in-array) |
 ## Memoization
 |  |
