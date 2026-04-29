@@ -78,6 +78,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0724-find-pivot-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -109,6 +110,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0242-valid-anagram](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
@@ -120,6 +122,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0344-reverse-string](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -135,6 +138,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0242-valid-anagram](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
 |  |
@@ -145,6 +149,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0367-valid-perfect-square](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Number Theory
 |  |
 | ------- |
