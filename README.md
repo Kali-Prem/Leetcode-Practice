@@ -14,8 +14,8 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0202-happy-number) |
@@ -44,8 +44,8 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0268-missing-number) |
@@ -54,15 +54,15 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [2351-first-letter-to-appear-twice](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0231-power-of-two](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0041-first-missing-positive](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -88,21 +88,21 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0041-first-missing-positive](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0202-happy-number) |
@@ -114,8 +114,8 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [2351-first-letter-to-appear-twice](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0202-happy-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -124,14 +124,15 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0242-valid-anagram](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0217-contains-duplicate) |
@@ -141,8 +142,8 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0162-find-peak-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -151,8 +152,8 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0704-binary-search](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1952-three-divisors) |
@@ -160,16 +161,16 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [2413-smallest-even-multiple](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2427-number-of-common-factors) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0164-maximum-gap) |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0164-maximum-gap) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -177,41 +178,46 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [1991-find-the-middle-index-in-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [3028-ant-on-the-boundary](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3028-ant-on-the-boundary) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1952-three-divisors](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2427-number-of-common-factors) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0258-add-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3028-ant-on-the-boundary](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3028-ant-on-the-boundary) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 <!---LeetCode Topics End-->
