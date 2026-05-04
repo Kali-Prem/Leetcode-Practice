@@ -80,6 +80,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -113,6 +114,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0268-missing-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
@@ -210,6 +212,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Heap (Priority Queue)
