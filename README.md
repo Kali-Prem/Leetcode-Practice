@@ -52,6 +52,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0287-find-the-duplicate-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0342-power-of-four) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -86,6 +87,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3028-ant-on-the-boundary) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -230,4 +232,8 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/2425-bitwise-xor-of-all-pairings/) | Medium |
 <!---LeetCode Topics End-->
