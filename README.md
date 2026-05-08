@@ -47,6 +47,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -214,6 +215,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0191-number-of-1-bits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
