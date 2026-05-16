@@ -65,6 +65,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -113,6 +114,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0202-happy-number) |
