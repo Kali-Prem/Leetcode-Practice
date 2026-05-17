@@ -169,6 +169,7 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 | [0162-find-peak-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0374-guess-number-higher-or-lower/) | Easy |
@@ -255,5 +256,6 @@ Feel free to explore, suggest improvements, or use it as a reference if you’re
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
