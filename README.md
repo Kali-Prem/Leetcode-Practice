@@ -1,15 +1,51 @@
-# LeetCode Practice
+<div align="center">
 
-This repo is my personal space to track and share solutions to LeetCode problems.  
-I’m using it to sharpen my Data Structures & Algorithms skills and keep a record of my progress.
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:0d1f3c,100:0a0e1a&height=220&section=header&text=Leetcode%20Practice&fontSize=52&fontColor=00d4ff&fontAlignY=42&desc=⚡%20Sharpening%20DSA%20one%20commit%20at%20a%20time%20⚡&descSize=16&descAlignY=64&descColor=7ecfff&stroke=00d4ff&strokeWidth=2&animation=twinkling" width="100%" alt="Prem's LeetCode Practice"/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/Kali-Prem/)
-[![GitHub stars](https://img.shields.io/github/stars/Kali-Prem/leetcode-practice?style=social)](https://github.com/Kali-Prem/leetcode-practice/stargazers)
-[![Languages](https://img.shields.io/badge/languages-Python%20%7C%20C++%20%7C%20Java-blue)](#)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Java+Solutions+%7C+Clean+Code+%7C+Optimal+Complexity;Arrays+%E2%80%A2+DP+%E2%80%A2+Math+%E2%80%A2+Bit+Manipulation;5%C3%97+Perfect+Runtime+%F0%9F%8F%86+%7C+Daily+Commits+%E2%9C%85;From+Brute+Force+to+Blazing+Fast+%E2%9A%A1" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+[![Profile](https://img.shields.io/badge/%40kali-prem-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kali-prem)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![LeetHub](https://img.shields.io/badge/LeetHub%20Synced-success?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/QasimWani/LeetHub)
+
+</div>
+
 
 --- 
 
-Feel free to explore, suggest improvements, or use it as a reference if you’re practicing too!
+
+<!-- ===========LeetCode, HackerRank========== -->
+<div align="center">
+
+<h2>📊 Coding Stats</h2>
+
+<div style="
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+">
+
+<!-- LeetCode -->
+<div style="
+  background-color: #0d1117;
+  border: 1px solid #30363d;
+  border-radius: 10px;
+  padding: 15px;
+  width: 300px;
+">
+  <img src="https://leetcard.jacoblin.cool/Prem_Kumar01?theme=dark&font=Karma&ext=heatmap" width="50%"/>
+</div>
+</div>
+
+</div>
+
+
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
