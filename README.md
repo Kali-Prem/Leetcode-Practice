@@ -104,6 +104,7 @@
 | [0001-two-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -155,6 +156,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0217-contains-duplicate) |
@@ -302,5 +304,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0867-transpose-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
