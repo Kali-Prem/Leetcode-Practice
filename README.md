@@ -134,6 +134,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3028-ant-on-the-boundary) |
@@ -206,6 +207,7 @@
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0905-sort-array-by-parity/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -223,6 +225,7 @@
 | [0704-binary-search](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
