@@ -150,6 +150,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3866-first-unique-even-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3866-first-unique-even-element/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3925-concatenate-array-with-reverse/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +289,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3028-ant-on-the-boundary](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3028-ant-on-the-boundary) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3925-concatenate-array-with-reverse/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
