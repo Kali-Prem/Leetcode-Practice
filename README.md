@@ -132,6 +132,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -271,6 +272,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0867-transpose-matrix/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3028-ant-on-the-boundary](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3028-ant-on-the-boundary) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
