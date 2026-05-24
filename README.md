@@ -79,6 +79,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
@@ -145,6 +146,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3028-ant-on-the-boundary) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3866-first-unique-even-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3866-first-unique-even-element/) | Easy |
