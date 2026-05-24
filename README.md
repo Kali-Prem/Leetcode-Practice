@@ -71,6 +71,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2427-number-of-common-factors) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2544-alternating-digit-sum) |
@@ -140,6 +141,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/2425-bitwise-xor-of-all-pairings/) | Medium |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3028-ant-on-the-boundary) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
