@@ -138,6 +138,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3028-ant-on-the-boundary) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -175,6 +176,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3866-first-unique-even-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -189,6 +191,7 @@
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0905-sort-array-by-parity/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +271,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1952-three-divisors) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2427-number-of-common-factors) |
 ## Simulation
 | Problem Name | Difficulty |
