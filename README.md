@@ -66,6 +66,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1492-the-kth-factor-of-n](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1492-the-kth-factor-of-n) |
+| [1518-water-bottles](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1518-water-bottles/) | Easy |
 | [1952-three-divisors](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2119-a-number-after-a-double-reversal) |
@@ -287,6 +288,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0867-transpose-matrix/) | Easy |
+| [1518-water-bottles](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1518-water-bottles/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3028-ant-on-the-boundary](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3028-ant-on-the-boundary) |
