@@ -106,6 +106,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0041-first-missing-positive) |
@@ -229,6 +230,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0162-find-peak-element) |
@@ -299,6 +301,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0191-number-of-1-bits/) | Easy |
