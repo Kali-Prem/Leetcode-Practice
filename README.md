@@ -134,6 +134,7 @@
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0905-sort-array-by-parity/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -203,6 +204,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0905-sort-array-by-parity/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 ## String
@@ -225,6 +227,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0905-sort-array-by-parity/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
