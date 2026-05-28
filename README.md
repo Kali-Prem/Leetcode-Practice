@@ -107,6 +107,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0027-remove-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0041-first-missing-positive) |
@@ -192,6 +193,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0202-happy-number) |
