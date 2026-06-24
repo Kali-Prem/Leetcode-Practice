@@ -165,6 +165,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -218,6 +219,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
@@ -364,4 +366,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
