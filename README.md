@@ -144,6 +144,7 @@
 | [0905-sort-array-by-parity](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0905-sort-array-by-parity/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [0999-available-captures-for-rook](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0999-available-captures-for-rook/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -315,6 +316,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0867-transpose-matrix/) | Easy |
+| [0999-available-captures-for-rook](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0999-available-captures-for-rook/) | Easy |
 | [1518-water-bottles](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1518-water-bottles/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -367,6 +369,7 @@
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0867-transpose-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0867-transpose-matrix/) | Easy |
+| [0999-available-captures-for-rook](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0999-available-captures-for-rook/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
 ## Quickselect
