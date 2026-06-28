@@ -148,6 +148,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -365,6 +366,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0867-transpose-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
