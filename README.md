@@ -53,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0202-happy-number) |
@@ -171,6 +172,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -375,4 +377,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
