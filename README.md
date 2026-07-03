@@ -53,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0189-rotate-array/) | Medium |
@@ -102,6 +103,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0342-power-of-four) |
