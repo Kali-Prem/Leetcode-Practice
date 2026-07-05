@@ -137,6 +137,7 @@
 | [0283-move-zeroes](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -352,6 +353,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 ## Stack
 | Problem Name | Difficulty |
