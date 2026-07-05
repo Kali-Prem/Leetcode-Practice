@@ -151,6 +151,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
@@ -295,6 +296,7 @@
 | [0238-product-of-array-except-self](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1991-find-the-middle-index-in-array) |
@@ -355,6 +357,7 @@
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
