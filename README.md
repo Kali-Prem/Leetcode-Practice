@@ -129,6 +129,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
@@ -262,6 +263,7 @@
 | [0035-search-insert-position](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -293,6 +295,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -355,6 +358,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
