@@ -140,6 +140,7 @@
 | [0485-max-consecutive-ones](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -271,6 +272,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0374-guess-number-higher-or-lower/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -297,6 +299,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -360,6 +363,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Stack
