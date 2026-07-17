@@ -172,6 +172,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [3024-type-of-triangle](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3024-type-of-triangle/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3028-ant-on-the-boundary) |
+| [3033-modify-the-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3033-modify-the-matrix/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -397,6 +398,7 @@
 | [0999-available-captures-for-rook](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0999-available-captures-for-rook/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
+| [3033-modify-the-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3033-modify-the-matrix/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
