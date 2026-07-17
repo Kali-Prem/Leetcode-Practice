@@ -82,6 +82,7 @@
 | [2544-alternating-digit-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2544-alternating-digit-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3024-type-of-triangle/) | Easy |
 | [3099-harshad-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -169,6 +170,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [3024-type-of-triangle](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3024-type-of-triangle/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3028-ant-on-the-boundary) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -263,6 +265,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3024-type-of-triangle](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3024-type-of-triangle/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
