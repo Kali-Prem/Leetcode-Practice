@@ -239,6 +239,7 @@
 | [0344-reverse-string](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
+| [3856-trim-trailing-vowels](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3856-trim-trailing-vowels/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
