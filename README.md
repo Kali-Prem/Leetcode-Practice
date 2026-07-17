@@ -231,6 +231,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2367-number-of-arithmetic-triplets/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +241,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3856-trim-trailing-vowels](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3856-trim-trailing-vowels/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
