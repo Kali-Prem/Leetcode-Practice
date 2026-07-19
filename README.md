@@ -177,6 +177,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3866-first-unique-even-element/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3925-concatenate-array-with-reverse/) | Easy |
 ## Dynamic Programming
@@ -269,6 +270,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3024-type-of-triangle](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3024-type-of-triangle/) | Easy |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +292,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,6 +358,7 @@
 | [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -405,6 +409,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
