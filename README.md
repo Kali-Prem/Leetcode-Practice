@@ -216,6 +216,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2367-number-of-arithmetic-triplets/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3866-first-unique-even-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -244,6 +245,7 @@
 | [0344-reverse-string](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3856-trim-trailing-vowels](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3856-trim-trailing-vowels/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## Sorting
