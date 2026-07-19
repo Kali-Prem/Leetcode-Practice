@@ -121,6 +121,7 @@
 | [0035-search-insert-position](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -186,6 +187,7 @@
 | [0022-generate-parentheses](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -399,6 +401,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0867-transpose-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0867-transpose-matrix/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0999-available-captures-for-rook/) | Easy |
