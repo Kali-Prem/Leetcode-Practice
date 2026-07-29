@@ -55,6 +55,7 @@
 | [0009-palindrome-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0202-happy-number) |
@@ -123,6 +124,7 @@
 | [0041-first-missing-positive](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
