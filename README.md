@@ -68,6 +68,7 @@
 | [0509-fibonacci-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/1492-the-kth-factor-of-n) |
 | [1518-water-bottles](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1518-water-bottles/) | Easy |
@@ -198,6 +199,7 @@
 | [0011-container-with-most-water](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0881-boats-to-save-people) |
+| [1323-maximum-69-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1323-maximum-69-number/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 | Problem Name | Difficulty |
