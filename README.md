@@ -109,6 +109,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0509-fibonacci-number) |
@@ -234,6 +235,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0344-reverse-string) |
@@ -392,6 +394,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -425,4 +428,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0062-unique-paths/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
