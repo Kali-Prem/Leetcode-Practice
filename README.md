@@ -353,6 +353,7 @@
 | [0867-transpose-matrix](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0867-transpose-matrix/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0999-available-captures-for-rook/) | Easy |
 | [1518-water-bottles](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1518-water-bottles/) | Easy |
+| [1603-design-parking-system](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/1603-design-parking-system/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3028-ant-on-the-boundary](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/3028-ant-on-the-boundary) |
@@ -373,6 +374,7 @@
 | [0169-majority-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1603-design-parking-system](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/1603-design-parking-system/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
@@ -432,4 +434,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
