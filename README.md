@@ -123,6 +123,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/Kali-Prem/Leetcode-Practice/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0066-plus-one/) | Easy |
@@ -189,6 +190,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0064-minimum-path-sum/) | Medium |
@@ -231,6 +233,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Easy/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/Java/Medium/0189-rotate-array/) | Medium |
@@ -396,6 +399,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Brainteaser
@@ -438,4 +442,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/1603-design-parking-system/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Kali-Prem/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
